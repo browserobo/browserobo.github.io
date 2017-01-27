@@ -39,7 +39,7 @@ a {
   body {
     color: #EEE;
     background-color: #2E3A42;
-    background-image: url(/_images/backgrounds/board-texture-1.jpg);
+    background-image: url(../images/backgrounds/board-texture-1.jpg);
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
